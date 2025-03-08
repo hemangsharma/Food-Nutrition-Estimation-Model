@@ -5,9 +5,9 @@ This project trains a machine learning model to estimate calories and macronutri
 
 ## Dataset
 
-<a href="https://github.com/google-research-datasets/Nutrition5k?utm_source=chatgpt.com">Github</a><br>
-<a href="https://huggingface.co/datasets/mmathys/food-nutrients?utm_source=chatgpt.com">Huggingface</a><br>
-<a href="https://universe.roboflow.com/food-nuzjo/meal-calorie-estimator?utm_source=chatgpt.com">universe.roboflow.com</a><br>
+1. <a href="https://github.com/google-research-datasets/Nutrition5k?utm_source=chatgpt.com">Github</a><br>
+2. <a href="https://huggingface.co/datasets/mmathys/food-nutrients?utm_source=chatgpt.com">Huggingface</a><br>
+3. <a href="https://universe.roboflow.com/food-nuzjo/meal-calorie-estimator?utm_source=chatgpt.com">universe.roboflow.com</a><br>
 
 ## Project Phases
 1. **Data Acquisition & Preprocessing**  
@@ -35,8 +35,8 @@ Ensure you have the following installed:
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/food-nutrition-estimation.git
-   cd food-nutrition-estimation
+   git clone https://github.com/hemangsharma/Food-Nutrition-Estimation-Model.git
+   cd Food-Nutrition-Estimation-Model
    ```
 2. Install dependencies:
    ```sh
